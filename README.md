@@ -1,13 +1,15 @@
 ### Hi there.. I'm Ankit 👋
 
 ### About me
-husband, father, programmer, blogger @ [ankitvijay.net](https://ankitvijay.net), [dotnetfoundation] (https://github.com/dotnet-foundation) member
+husband, father, programmer, blogger @ [ankitvijay.net](https://ankitvijay.net), [dotnetfoundation](https://github.com/dotnet-foundation) member
 
 - 📫 How to reach me:
    
-    - Twitter: [![Twitter Badge](https://img.shields.io/twitter/follow/vijayankit?style=social)](https://twitter.com/vijayankit)
+    - Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/vijayankit?style=social)](https://twitter.com/vijayankit)
     
-    - Facebook: [Ankit Vijay Blogs](https://www.facebook.com/ankitvijayblogs)
+    - [Facebook- Ankit Vijay Blogs](https://www.facebook.com/ankitvijayblogs)
+    
+    - [StackOverflow](https://stackoverflow.com/users/921127/ankit-vijay)
       
 
 - 👯 I maintain (and welcome collaboration):
