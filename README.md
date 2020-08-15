@@ -1,6 +1,6 @@
 ### Hi there.. I'm Ankit 👋
 
-### About me
+## About me
 husband, father, programmer, blogger @ [ankitvijay.net](https://ankitvijay.net), [dotnetfoundation](https://github.com/dotnet-foundation) member
 
 - 📫 How to reach me: 
