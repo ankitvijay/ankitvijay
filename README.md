@@ -10,8 +10,9 @@ husband, father, programmer, blogger @ [ankitvijay.net](https://ankitvijay.net),
    - [Facebook - Ankit Vijay blogs](https://www.facebook.com/ankitvijayblogs)
     
 
-- 👯 I maintain (and welcome collaboration):
+- 👯 I maintain
       
+     - [My blog @ ankitvijay.net](https://ankitvijay.net)
      - [Enumeration Class](https://github.com/ankitvijay/Enumeration)
      - [DeveloperExceptionJsonResponse](https://github.com/ankitvijay/DeveloperExceptionJsonResponse)
       
